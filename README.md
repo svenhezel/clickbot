@@ -45,7 +45,7 @@ You can read the full breakdown and purpose of this project in our blog post:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/clickbot-malicious.git
+git clone https://github.com/svenhezel/clickbot
 cd clickbot-malicious
 
 # (Optional) Create a virtual environment
