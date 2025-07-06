@@ -3,7 +3,7 @@ import random
 import time
 
 # Proxy configuration
-proxy_url = "http://geonode_4SxVIEHJYJ-type-residential:e5be2b68-d56e-48f2-9196-7e0d83450e47@proxy.geonode.io:9000"
+proxy_url = "https:/user_name:password@proxyprovider.com:port_number"
 proxy_handler = urllib.request.ProxyHandler({
     'http': proxy_url,
     'https': proxy_url
