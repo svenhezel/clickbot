@@ -29,7 +29,7 @@ We do **not condone** or support any misuse of this code. Use responsibly.
 ## 📖 Related Article
 
 You can read the full breakdown and purpose of this project in our blog post:  
-👉 [Building a Malicious Clickbot](https://24metrics.com/blog/building_a_malicious_clickbot)
+👉 [Building a Malicious Clickbot](https://24metrics.com/building_a_malicious_clickbot)
 
 ---
 
